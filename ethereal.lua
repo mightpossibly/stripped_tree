@@ -10,6 +10,7 @@ local trunk_names = {
     "sakura_trunk",
     "frost_tree",
     "palm_trunk",
+	"olive_trunk",
 }
 
 stripped_tree.register_trunk(mod_name,trunk_names)
